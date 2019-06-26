@@ -1,8 +1,7 @@
-# coding=utf-8
 from appium import webdriver
 import time
 
-# apk_path = "D:/Taobaoandroid.apk"
+from appium.webdriver.common.touch_action import TouchAction
 
 desired_caps = {
     'platformName': 'Android',
@@ -15,9 +14,13 @@ desired_caps = {
 }
 
 driver = webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+# time.sleep(5)
+# driver.tap([(122,1502)],1)
+# time.sleep(5)
+
+
+action=TouchAction(driver)
+action.press(x=220,y=700).move_to(x=840,y=700).move_to(x=220,y=1530).move_to(x=840,y=1530).release().perform()
+
 time.sleep(5)
-driver.find_element_by_id("com.taobao.taobao:id/home_searchedit").click()
-time.sleep(5)
-driver.find_element_by_id("com.taobao.taobao:id/searchEdit").click()
-driver.find_element_by_id("com.taobao.taobao:id/searchEdit").send_keys("JBL")
 driver.quit()

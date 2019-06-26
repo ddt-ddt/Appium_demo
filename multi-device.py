@@ -2,7 +2,6 @@
 from appium import webdriver
 import time
 
-# apk_path = "D:/Taobaoandroid.apk"
 
 desired_caps = {
     'platformName': 'Android',
