@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea7f464-595d-4cd3-a201-7290dc3a9a45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/appium_ios_onsite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-device.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appium_demo_calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/appium_demo_calculate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appium_demo_taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/appium_demo_taobao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-device.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi-device.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appium_demo_calculate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="14" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="38" />
               <folding>
                 <element signature="e#15#43#0" expanded="true" />
               </folding>
@@ -30,22 +28,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appium_demo_taobao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="51" />
+            <state relative-caret-position="15">
+              <caret line="1" column="22" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tap_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
               <folding>
-                <element signature="e#15#43#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tap_demo.py">
+        <entry file="file://$PROJECT_DIR$/multi-device.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="257">
+              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#16#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,15 +76,16 @@
         <option value="$PROJECT_DIR$/appium_demo_taobao.py" />
         <option value="$PROJECT_DIR$/appium_demo_onsite" />
         <option value="$PROJECT_DIR$/appium_ios_onsite.py" />
-        <option value="$PROJECT_DIR$/multi-device.py" />
         <option value="$PROJECT_DIR$/appium_demo_calculate.py" />
         <option value="$PROJECT_DIR$/tap.py" />
         <option value="$PROJECT_DIR$/tap_demo.py" />
+        <option value="$PROJECT_DIR$/multi-device.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
   </component>
@@ -86,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tap_demo">
+  <component name="RunManager" selected="Python.multi-device">
     <configuration name="appium_demo_calculate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Appium_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,27 +167,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="appium_demo_taobao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Appium_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium_demo_taobao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="appium_ios_onsite" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Appium_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,6 +180,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium_ios_onsite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi-device" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi-device.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tap_demo" />
+        <item itemvalue="Python.multi-device" />
         <item itemvalue="Python.appium_demo_calculate" />
+        <item itemvalue="Python.tap_demo" />
         <item itemvalue="Python.appium_demo_onsite" />
         <item itemvalue="Python.appium_ios_onsite" />
-        <item itemvalue="Python.appium_demo_taobao" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +254,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1440" height="804" extended-state="1" />
+    <frame x="340" y="23" width="1440" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
@@ -254,14 +262,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884902" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2485955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989429" visible="true" weight="0.2485955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010571" side_tool="true" weight="0.2485955" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -279,16 +287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appium_demo_onsite">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#15#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appium_demo_onsite" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2119">
@@ -296,45 +295,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multi-device.py">
+    <entry file="file://$PROJECT_DIR$/tap.py" />
+    <entry file="file://$PROJECT_DIR$/tap_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
           <folding>
-            <element signature="e#15#43#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/appium_demo_taobao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#15#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="22" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appium_demo_calculate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="14" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="38" />
           <folding>
             <element signature="e#15#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tap_demo.py">
+    <entry file="file://$PROJECT_DIR$/multi-device.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="257">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#16#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
